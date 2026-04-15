@@ -33,7 +33,8 @@
 
 ## 📂 Projects
 
-- 🚧 Coming soon... (Working on new projects)  
+## 🔐 Cyber Login Page
+  A simple cyber security themed login UI built using HTML & CSS.  
 
 ---
 
